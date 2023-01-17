@@ -11,7 +11,7 @@ def strStr(haystack: str, needle: str) -> int:
     return ans
 
 
-haystack_str = "a"
-needle_str = "a"
+haystack_str = "aaaaaabbbbbbddddd"
+needle_str = "dd"
 
 print(strStr(haystack_str, needle_str))
