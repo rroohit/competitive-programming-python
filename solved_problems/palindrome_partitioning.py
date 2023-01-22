@@ -30,5 +30,5 @@ def isPalindrome(s, l, r):
     return True
 
 
-k = "aabbaa"
+k = "aab"
 print(partition(k))
