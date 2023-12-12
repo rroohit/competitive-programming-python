@@ -1,6 +1,7 @@
 from typing import List
 
 
+# solved
 def transpose(matrix: List[List[int]]) -> List[List[int]]:
     rows, cols = len(matrix), len(matrix[0])
 
